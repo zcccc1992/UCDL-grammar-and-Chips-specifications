@@ -3,5 +3,3 @@
 - The "UCDL_description_file.zip" compressed package contains all the UCDL description files.
 - The BNF grammar of UCDL is presented in "The BNF grammar and Coding for UCDL.pdf"
 - The Case Study of COTS Chips are presented in "Case Study for COTS Chips with UCDL.pdf"
-
-
